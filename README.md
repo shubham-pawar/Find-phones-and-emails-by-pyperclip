@@ -18,7 +18,8 @@ To copy text to the clipboard, pass a string to pyperclip.copy(). To paste the t
 Steps to implementation :-
 
     1)Download a zip file and unzip it.
-    2)First copy any phone numbers of the format (E.g. 123-545-1818) and Email IDs of the format (E.g. shubhampawar1234@gmail.com)
+    2)First copy any phone numbers of the format (E.g. 123-545-1818) and Email IDs of the format 
+    (E.g. shubhampawar1234@gmail.com)
     3)Open the Terminal and go to the directory where your file is saved (Using the ~/cd repo-name)
     4)Run the phoneAndEmail.py file by following command
     python phoneAndEmail.py + hit the Enter key.
